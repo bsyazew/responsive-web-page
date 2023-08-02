@@ -4,10 +4,7 @@
   --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
 }
 
-body {
-  margin: 60px auto;
-  max-width: 800px;
-}
+
 
 h1,
 h2,
@@ -30,7 +27,7 @@ h3 {
 }
 
 p {
-  background: var(--secondary-color);
+
   padding: 20px;
   border-radius: 4px;
   font-size: 18px;
@@ -89,4 +86,3 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
-
